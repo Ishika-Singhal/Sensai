@@ -1,5 +1,5 @@
 import { getAssessments } from "@/actions/interview";
-import StatsCards from "./_components/stats-cardconsole.log('Assessments fetched:', assessments);";
+import StatsCards from "./_components/stats-card"
 import PerformanceChart from "./_components/performance-chart";
 import QuizList from "./_components/quiz-list";
 
